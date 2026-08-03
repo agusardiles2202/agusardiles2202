@@ -2,9 +2,9 @@
 Me interesa el desarrollo de software, la inteligencia artificial y el análisis y diseño de sistemas de información. 
 Con el objetivo de poner en práctica mis habilidades y ampliar mis conocimientos, desarrollé proyectos en Python, entre ellos agentes de IA, chatbots y aplicaciones que integran tecnologías como LangChain, LangGraph y modelos de lenguaje (LLMs).
 
-## Tecnologías
+## Conocimientos
 
-Lenguajes
+### Lenguajes
 - Java
 - Python
 - JavaScript
