@@ -1,6 +1,6 @@
 # Agustina Ardiles
 
-Estudiante de cuarto año de Ingeniería en Sistemas de Información en la UTN FRC, Córdoba. Me enfoco en desarrollo backend con Java y Python. Busco mi primera oportunidad profesional en desarrollo de software.
+Estudiante de Ingeniería en Sistemas de Información en la UTN FRC, Córdoba. Trabajo con Java y Python y me interesan el análisis de sistemas, el desarrollo backend y la IA aplicada. Busco mi primera oportunidad profesional en tecnología.
 
 [Portafolio](https://agusardiles2202.github.io/) · [CV](https://agusardiles2202.github.io/assets/CV_Agustina_Ardiles.pdf) · [LinkedIn](https://www.linkedin.com/in/agustina-ardiles-183718378/) · [Correo](mailto:agusardiles2202@gmail.com)
 
