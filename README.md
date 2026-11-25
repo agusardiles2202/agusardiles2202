@@ -1,39 +1,29 @@
-¡Hola! Soy Agustina Ardiles, estudiante de 4.º año de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional (UTN).
-Me interesa el desarrollo de software, la inteligencia artificial y el análisis y diseño de sistemas de información. 
-Con el objetivo de poner en práctica mis habilidades y ampliar mis conocimientos, desarrollé proyectos en Python, entre ellos agentes de IA, chatbots y aplicaciones que integran tecnologías como LangChain, LangGraph y modelos de lenguaje (LLMs).
+# ¡Hola! Soy Agustina Ardiles 👋
 
-## Conocimientos
+Estudiante de **4.º año de Ingeniería en Sistemas de Información** en la **Universidad Tecnológica Nacional (UTN FRC)** (29 materias aprobadas).  
+Apasionada por el desarrollo backend, la arquitectura de software y la inteligencia artificial aplicada.
 
-### Lenguajes
-- Java
-- Python
-- JavaScript
+🌐 **Portafolio Web Interactivo:** [https://agusardiles2202.github.io](https://agusardiles2202.github.io)  
+💼 **LinkedIn:** [linkedin.com/in/agustina-ardiles-183718378](https://www.linkedin.com/in/agustina-ardiles-183718378/)  
+📧 **Contacto:** agusardiles2202@gmail.com
 
-### Desarrollo Web
-- HTML
-- CSS
-- React
-- Node.js
+---
 
-### Inteligencia Artificial
-- LangChain
-- LangGraph
-- RAG
-- ChromaDB
-- OpenAI
-- Google Gemini
-- Pydantic
+## 🚀 Proyectos Destacados
 
-### Bases de datos
-- SQL
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| **[Chat Multiusuario con Memoria Inteligente](https://github.com/agusardiles2202/chat_multiusuario_con_memoria)** | Asistente conversacional multiusuario con memoria semántica persistente (RAG), checkpoints por hilo y extracción automática de hechos. | Python, LangGraph, LangChain, Google Gemini, ChromaDB, SQLite, Pydantic, Streamlit |
+| **[Aplicación de Logística e Inventario](https://github.com/agusardiles2202/aplicacion-logistica)** | Sistema integral de Centro de Distribución y sucursales con segregación de stock en 4 baldes, seguridad por precinto, POS y 181 tests automatizados. | Python, SQLite3, Tkinter, Pytest, Patrones Singleton / Factory Method / Observer / State / DAO |
+| **[Plataforma de Logística en Microservicios](https://github.com/agusardiles2202/plataforma-logistica-microservicios)** | Backend distribuido con API Gateway, seguridad OAuth2/JWT con Keycloak, cálculo de rutas con Google Maps API y tarifas dinámicas. | Java 21, Spring Boot 3.5, Spring Cloud Gateway, Keycloak, PostgreSQL 17, Docker Compose, Swagger |
 
-### Herramientas
-- Git
-- GitHub
-- IntelliJ IDEA
-- PyCharm
-- Visual Studio Code
+---
 
-### Contacto
--Linkedin: https://www.linkedin.com/in/agustina-ardiles-183718378/ 
--Correo:  agusardiles2202@gmail.com
+## 🛠️ Conocimientos Técnicos
+
+- **Lenguajes:** Python, Java, JavaScript
+- **Backend & Arquitectura:** Spring Boot, Spring Cloud Gateway, Node.js, APIs REST, Microservicios, Patrones de Diseño, POO
+- **Inteligencia Artificial:** LangChain, LangGraph, RAG, ChromaDB, Agentes IA, OpenAI, Google Gemini, Pydantic
+- **Frontend:** React.js, HTML5, CSS3, Streamlit, Tkinter
+- **Bases de Datos:** PostgreSQL, SQLite, SQL, ChromaDB
+- **Seguridad, Infra & Testing:** Docker, Keycloak (OAuth2 / JWT), Pytest, Git, GitHub
