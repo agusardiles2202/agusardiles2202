@@ -4,10 +4,9 @@ Estudio **Ingeniería en Sistemas de Información en la UTN FRC** y vivo en Cór
 
 Disfruto aprender tecnologías nuevas, desde el frontend hasta el backend y la IA aplicada. **Busco mi primera oportunidad profesional en sistemas** para compartir mis conocimientos, colaborar y seguir creciendo.
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-9A351E?style=for-the-badge)](https://agusardiles2202.github.io/)
-[![CV en PDF](https://img.shields.io/badge/CV_en_PDF-202A38?style=for-the-badge)](https://agusardiles2202.github.io/assets/CV_Agustina_Ardiles.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-234763?style=for-the-badge)](https://www.linkedin.com/in/agustina-ardiles-183718378/)
-[![Correo](https://img.shields.io/badge/Correo-202A38?style=for-the-badge)](mailto:agusardiles2202@gmail.com)
+[<img src="assets/portafolio.png" alt="Portafolio" width="112" height="36">](https://agusardiles2202.github.io/)
+[<img src="assets/cv.png" alt="CV en PDF" width="112" height="36">](https://agusardiles2202.github.io/assets/CV_Agustina_Ardiles.pdf)
+[<img src="assets/linkedin.png" alt="LinkedIn" width="112" height="36">](https://www.linkedin.com/in/agustina-ardiles-183718378/)
 
 ## Tecnologías
 
