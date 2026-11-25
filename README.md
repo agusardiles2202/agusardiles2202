@@ -1,6 +1,6 @@
 # ¡Hola! Soy Agustina Ardiles 👋
 
-Estudiante de **4.º año de Ingeniería en Sistemas de Información** en la **Universidad Tecnológica Nacional (UTN FRC)** (29 materias aprobadas).  
+Estudiante de **4.º año de Ingeniería en Sistemas de Información** en la **Universidad Tecnológica Nacional (UTN FRC)**. 
 Apasionada por el desarrollo backend, la arquitectura de software y la inteligencia artificial aplicada.
 
 🌐 **Portafolio Web Interactivo:** [https://agusardiles2202.github.io](https://agusardiles2202.github.io)  
